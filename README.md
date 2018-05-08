@@ -6,7 +6,7 @@ baseon EPS32
 
 Reference:
 
-https://github.com/espressif/esp-idf
+https://github.com/espressif/arduino-esp32
 
 https://qiita.com/juosugi/items/5e36afac684055da058e
 
