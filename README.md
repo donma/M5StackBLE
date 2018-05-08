@@ -2,7 +2,9 @@
 
 D51c  車隊的系統，一樣是一個簡單的基於M5 Stack + BLE 開發的系統
 
-baseon EPS32
+base on EPS32
+
+BLOG : http://no2don.blogspot.com/2018/05/esp32-m5stack-server-and-client.html
 
 Reference:
 
